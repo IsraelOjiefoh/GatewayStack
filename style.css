@@ -22,7 +22,6 @@
 
 .hero-contents {
   width: 50%;
-  /* height: 424px; */
   padding: 70px;
 }
 
@@ -37,13 +36,20 @@
 }
 
 .hero-contents .btn {
-  background: #dd0000;
+  background: #006bdd;
   border-radius: 5px;
   padding: 2% 5%;
   text-align: center;
   color: #ffffff;
   border: none;
   outline: none;
+  cursor: pointer;
+}
+
+/* Transition animation */
+.hero-contents .btn:hover {
+  transition: ease-in-out 0.8s;
+  padding: 3% 6%;
 }
 
 .hero-img {
@@ -90,7 +96,7 @@
 }
 
 .categories #active {
-  background-color: #dd0000;
+  background-color: #006bdd;
   color: white;
 }
 
@@ -113,7 +119,7 @@
 }
 
 .blog-container .blogs .blog .btn {
-  background: #dd000000;
+  background: #006bdd00;
   border-radius: 5px;
   padding: 1% 4%;
   text-align: center;
@@ -221,7 +227,7 @@ footer .social-icons {
 }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .hero-container {
     height: 660px;
     display: flex;
@@ -294,11 +300,17 @@ footer .social-icons {
   }
 
   .categories #active {
-    background-color: #dd0000;
+    background-color: #006bdd;
     color: white;
   }
 
   .blog-container .blogs {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .blog-container .matches-container {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -325,12 +337,30 @@ footer .social-icons {
   }
 
   .hero-container {
-    height: 900px;
+    height: 330px;
     display: flex;
   }
 
+  .hero-container .hero-contents h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .hero-contents {
+    width: 60%;
+    padding: 50px 0px 20px 40px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+  }
+
+  .hero-banner {
+    width: 40%;
+  }
+
   .hero-banner img {
-    margin-top: 139px;
+    height: 280px;
+    width: 200px;
+    margin-top: 49px;
   }
 
   .blog-container .blogs {
@@ -369,6 +399,12 @@ footer .social-icons {
     display: inline-block;
   }
 
+  .blog-container .matches-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .hidden-btn-div {
     display: flex;
     justify-content: center;
@@ -379,7 +415,7 @@ footer .social-icons {
 
   .hidden-btn-div .btn {
     color: white;
-    background-color: red;
+    background-color: #006bdd;
     padding: 8px 18px;
     border: none;
     outline: none;
