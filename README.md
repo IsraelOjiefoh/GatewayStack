@@ -1,5 +1,5 @@
 # Techo-Agency
-This is a Website of a Tech Agency. I have developed it using HTML, CSS, Bootstrap, JavaScript, jQuery.
+This is a website of a Tech Agency. I have developed it using HTML, CSS, Bootstrap, JavaScript, jQuery.
 
 ### Deployment
 | Environment | Link |
