@@ -5,7 +5,7 @@ This is a Website of a Tech Agency. I have developed it using HTML, CSS, Bootstr
 | Environment | Link |
 |-------------|------|
 | GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Techo-Agency/) |
-| Netlify Hosting | [Vercel Preview](https://adidas-clone-m0u27psc8-kumar-laxmi.vercel.app/) |
+| Netlify Hosting | [Netlify Preview](https://lucky-rolypoly-de1dae.netlify.app/) |
 
 ### Technology Stack
 #### Languages:
