@@ -28,4 +28,4 @@ Used in the project: HTML, CSS, Bootstrap, JavaScript, jQuery
 
 
 ### Screen-Shot of Clone:
-<img src="./assets/img/Techo-Agency" alt="Techo Agency">
+<img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
