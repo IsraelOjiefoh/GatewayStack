@@ -16,8 +16,7 @@ Used in the project: HTML, CSS, Bootstrap, JavaScript, jQuery
 
 #### Frame-Works, PlatForm & Libraries:
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![JQUERY](https://img.shields.io/badge/jquery-%0F3460.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### IDE Used:
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
