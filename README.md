@@ -4,8 +4,8 @@ This is a Website of a Tech Agency. I have developed it using HTML, CSS, Bootstr
 ### Deployment
 | Environment | Link |
 |-------------|------|
-| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Techo-Agency/) |
 | Netlify Hosting | [Netlify Preview](https://lucky-rolypoly-de1dae.netlify.app/) |
+| GitHub Pages | [GitHub Pages](https://rhythm1950.github.io/Techo-Agency/) |
 
 ### Technology Stack
 #### Languages:
