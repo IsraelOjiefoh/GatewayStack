@@ -28,4 +28,4 @@ Used in the project: HTML, CSS, Bootstrap, JavaScript, jQuery
 
 
 ### Screen-Shot of Clone:
-<img src="https://drive.google.com/file/d/1BcDzTnMCr7Nn6QcildIZRT-Pw4uJfxJ0/view?usp=sharing" alt="Adidas Clone">
+<img src="./assets/img/techo-agency.png" alt="Techo Agency">
