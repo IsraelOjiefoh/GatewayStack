@@ -27,5 +27,5 @@ Used in the project: HTML, CSS, Bootstrap, JavaScript, jQuery
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Screen-Shot of Clone:
+### Website Preview:
 <img src="./assets/img/Techo-Agency.png" alt="Techo Agency">
